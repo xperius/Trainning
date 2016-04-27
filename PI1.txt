@@ -1,0 +1,61 @@
+autenticacion: decir quien eres, autorizacion:que puedes hacer ahi
+XML y JSON: se dedican a listar la informacion, estandares, interpretes
+
+
+web services:
+estandares y protocolos
+	*SOAP
+	*REST
+Microservicios
+
+versionador de codigo: programa que hce seguimiento de tu codigo,
+ quien como cuando, que ha modificado
+GIT
+repositorio: lugar donde esta tu codigo
+Branch: Cambios paralelos u otro historial
+Merch: fucion de los cambios creados en un branch
+Tags: otro nombre a tus branch
+Commit: VErsionar el codigo, oficializar un cambio
+deploy: over todo a produccion
+integracion continua: automatiza el deploy,  
+subes codigo y la iClo copia todo para el server, avisa quein rompe codigo o tiene errores
+
+
+
+crear una cuenta en github, crear un archivo, 
+tener repositorio y hacer un commit 
+pushear y subir al server
+
+sourcetree: cliente que me ayudarra a hacer el commit, el cambio y el push
+pide usuario
+pull descargar todo lo que tengo
+push subir todo lo que quiera
+clon: usar para
+crear un respositorio
+HTPS: copiar esa URL e ir al Sourcetree y clonarse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
